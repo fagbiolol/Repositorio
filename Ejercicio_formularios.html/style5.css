@@ -40,4 +40,5 @@ body{
 .form-container button:hover {
     background-color: #45a049;
     color: yellow;
+    margin: 12px;
 }
