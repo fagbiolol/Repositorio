@@ -1,0 +1,16 @@
+header{
+    background-color: aqua;
+}
+#contenedor1{
+    background-color: bisque;
+}
+#contenedor2{
+    background-color: greenyellow;
+}
+#contenedor2>h2{
+    text-align: center;
+    color: brown;
+}
+#contenedor3{
+    background-color: antiquewhite;
+}

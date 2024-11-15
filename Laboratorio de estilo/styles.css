@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+    font-size: 24px;
+}
+
+p{
+    color: green;
+    font-size: 16px;
+    border: 2px solid black;
+}
+
+img{
+    border: 5px solid red;
+    width: 150px;
+    height: auto;
+}
+
+.list-item{
+    color: blue;
+    border-collapse: collapse;
+}
+
+.table-style{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-style th, .table-style td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.table-style th{
+    background-color: aqua;
+}
+
+.table-style td{ 
+    background-color: blue;
+}
